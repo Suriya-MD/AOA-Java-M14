@@ -1,8 +1,7 @@
 
 # EX 4B Frog Jump - Dynamic Programming.
 ## Date: 02/09/2026
-## Name: SURIYA M
-## Reg No: 212223110055
+
 ## AIM:
 To write a Java program to for given constraints.
 A Frog Jump 1 or 2 steps at a time.
